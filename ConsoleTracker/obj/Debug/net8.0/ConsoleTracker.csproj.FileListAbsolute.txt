@@ -1,0 +1,15 @@
+/workspaces/ApexChallengeTracker/ConsoleTracker/bin/Debug/net8.0/ConsoleTracker
+/workspaces/ApexChallengeTracker/ConsoleTracker/bin/Debug/net8.0/ConsoleTracker.deps.json
+/workspaces/ApexChallengeTracker/ConsoleTracker/bin/Debug/net8.0/ConsoleTracker.runtimeconfig.json
+/workspaces/ApexChallengeTracker/ConsoleTracker/bin/Debug/net8.0/ConsoleTracker.dll
+/workspaces/ApexChallengeTracker/ConsoleTracker/bin/Debug/net8.0/ConsoleTracker.pdb
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.AssemblyInfoInputs.cache
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.AssemblyInfo.cs
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.csproj.CoreCompileInputs.cache
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.sourcelink.json
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.dll
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/refint/ConsoleTracker.dll
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.pdb
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ConsoleTracker.genruntimeconfig.cache
+/workspaces/ApexChallengeTracker/ConsoleTracker/obj/Debug/net8.0/ref/ConsoleTracker.dll
